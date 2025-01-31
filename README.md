@@ -22,4 +22,25 @@ This project is a multi-module pipeline designed to extract, store, and retrieve
 🗄 Stores extracted data into a Pinecone vector database.  
 - 🔄 Converts extracted text into embeddings.  
 - 🚀 Uses Pinecone as a scalable and efficient vector search database.  
-- 🔍 Supports metadata storage for enhanced retri
+- 🔍 Supports metadata storage for enhanced retrieval.  
+
+📌 Notebook: `MODULE 2 - Pinecone DB builder.ipynb`
+
+---
+
+### 3️⃣ MODULE 3 - Memory Research Agent
+💡 An AI-powered research agent for contextual memory retrieval.  
+
+#### There are two versions of this module:
+1. ⚙️ MODULE 3 V1 - Complex Code:  
+   - 🔬 Advanced architecture with intricate memory handling.  
+   - 📚 Handles contextual queries across multiple documents.
+
+2. ✨ MODULE 3 V2 - Simpler Code (Final Version):  
+   - 🏎 Optimized and cleaner implementation for easier use.  
+   - ⚡ Supports fast and accurate document retrieval.
+
+📌 Notebooks:  
+- `MODULE 3 V1 - Memory_research_agent - complex code.ipynb`  
+- `MODULE 3 V2 - Memory_research_agent final - simpler code.ipynb`  
+
